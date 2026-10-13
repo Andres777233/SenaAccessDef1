@@ -1,0 +1,14 @@
+# Root
+**/node_modules/
+**/vendor/
+**/.env
+**/.env.backup
+**/storage/logs/*.log
+**/app/build/
+**/.gradle/
+**/local.properties
+**/.idea/workspace.xml
+.DS_Store
+*.log
+**/public/build/
+**/public/hot
